@@ -1,0 +1,17 @@
+.containerCards{
+  /* aspect-ratio: 10 / 16;*/
+  /*max-width: 1100px;*/
+  /*margin:10px auto 5px auto;*/
+  /*overflow: hidden;*/
+ /* background-color: aqua;*/
+
+  width: 1300px;
+  height: auto;
+  margin: 20px;
+  display: flex;
+ resize: both;
+  flex-wrap: wrap ;
+  align-content: flex-start;
+  
+
+}
